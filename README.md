@@ -3,7 +3,7 @@
 This project is developed with Spring Boot version 2.7.4 and Maven build tool.
 
 * Proper API's used for CRUD operation.
-* Used Proper associations between entiies.
+* Used Proper associations between entities.
 * Proper utilize Spring repository used.
 * Applied proper transaction management.
 * Proper exception handling used and display appropriate message to the user.
